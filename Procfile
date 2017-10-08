@@ -1,0 +1,1 @@
+web: bundel exec puma -C config/puma.rb
